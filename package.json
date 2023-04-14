@@ -1,0 +1,16 @@
+{
+  "name": "@mondago/prettier-config",
+  "version": "1.0.0",
+  "description": "Mondago's Prettier configuration.",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mondago/prettier-config.git"
+  },
+  "author": "Mondago Ltd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mondago/prettier-config/issues"
+  },
+  "homepage": "https://github.com/mondago/prettier-config#readme"
+}
